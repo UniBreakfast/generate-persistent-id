@@ -8,6 +8,8 @@ But what is more important the file is watched, so if the id in it is changed at
 
 Also every instance is named, so you can have multiple instances of this class in your application and they will not interfere with each other.
 
+![image](https://github.com/UniBreakfast/generate-persistent-id/assets/19654456/6dc6fd61-a004-4457-b351-f11789454add)
+
 ## Usage
 
 ```js
